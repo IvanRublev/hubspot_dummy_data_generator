@@ -1,0 +1,7 @@
+li_post
+.ipynb_checkpoints
+venv
+.venv
+.ruff_cache
+*.xlsx
+*.csv
